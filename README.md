@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rasul13Gadzhiev
 - 👀 I’m interested in AI and Machine Learning
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Python 
+- 💞️ I’m looking to collaborate on Python and AI in DICOM images analysis.
 - 📫 How to reach me - rasul.gadzhiev@ge.com
 
 <!---
